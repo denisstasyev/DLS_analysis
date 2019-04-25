@@ -1,5 +1,5 @@
 # DLS Analysis
-### Course in Computational Mathematics at MIPT 5 semester. 
+### Final project for the Computational Mathematics course at MIPT for 5 semester. 
 
 ### Project Content:
 1. Two-particle recognition of the size of near and far particles;
